@@ -2,6 +2,10 @@
 
 This folder contains OctoAcme's project management process documents. The goal of these docs is to make project management practices discoverable, consistent, and easy to onboard to for new team members.
 
+## Overview
+
+OctoAcme manages projects using a lightweight, repeatable process that moves work from initiation through planning, execution, and release. Teams track work with issues and milestones, coordinate releases with a release manager, and hold regular retrospectives to capture improvements. Responsibilities are clarified via roles such as Product Manager, Engineering Lead, and Release Manager to speed decisions and reduce handoff friction.
+
 ## Summary
 
 OctoAcme follows a lightweight, repeatable project management workflow that covers:
